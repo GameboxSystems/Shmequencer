@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/aaron/Documents/gb_branches/shmequencer/top.ncd
+OUTFILE=/home/aaron/Documents/gb_branches/shmequencer/top.bit
+FAMILY=Spartan6
+PART=xc6slx9-2tqg144
+WORKINGDIR=/home/aaron/Documents/gb_branches/shmequencer
+LICENSE=WebPack
+USER_INFO=__0_0_0
